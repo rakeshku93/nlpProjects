@@ -1,1 +1,1 @@
-Sentiment Analysis on IMDB Movie Reviews.
+Sentiment Analysis on IMDB Movie Reviews using Tensorflow.
