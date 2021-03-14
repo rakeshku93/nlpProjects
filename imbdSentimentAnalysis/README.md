@@ -5,7 +5,10 @@ The goal of this project is to build a Sentiment Analysis model using Tensorflow
 
 ## Software and Libraries
 [Python](https://www.python.org/downloads/release/python-364/)
+
 [Pandas](https://pandas.pydata.org/) 
+
 [Numpy](https://numpy.org/)
+
 [Tensorflow](https://www.tensorflow.org/)
 
